@@ -1,13 +1,23 @@
-Hi 👋, I'm Mohamed A.B 👋
+## Hi 👋, I'm Mohamed A.B  
 
-  -👨‍💻 Web Full-Stack Developer: Proficient in MongoDB, React, and Node.js.
-  -🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap and React.js.
-  -🚀 Backend: Experience with MySQL, Node.js, and MongoDB for building RESTful APIs.
-  -🔄 State Management: Knowledgeable in Redux for large-scale React applications.
-  -📱 UI/UX: Familiar with Figma for design.
-  -📝 Version Control: Git/GitHub proficiency.
-  -☁️ Deployment: Experienced in deploying on Vercel.
-  -✔️ Testing: ...
-  -🔍 Problem-solving: Strong debugging skills.
-  -💬 Communication: Effective team collaboration.
+🚀 **Full-Stack Web Developer** | Passionate about building scalable, efficient, and user-friendly applications  
+
+### 💻 Tech Stack  
+- **Frontend:** HTML5, CSS3, SASS, SCSS, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap  
+- **Backend:** MySQL, MongoDB, Laravel 
+- **State Management:** Redux for scalable React applications  
+- **UI/UX & Tools:** Figma for design and prototyping  
+- **Version Control & Deployment:** Git/GitHub | Vercel  
+
+### 🛠️ Skills  
+- **Problem-Solving:** Strong debugging and optimization abilities  
+- **Collaboration & Communication:** Effective teamwork and project coordination  
+- **Testing:**  
+
+### 👮️‍💻 Let's Connect  
+- **GitHub:** https://github.com/mohamed-2300/  
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-ait-bourice-09499a2a6/ 
+- **Portfolio:**   
+
+Always eager to learn, collaborate, and build amazing projects! 🚀
 
