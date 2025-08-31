@@ -16,8 +16,8 @@
 
 ### 👮️‍💻 Let's Connect  
 - **GitHub:** https://github.com/mohamed-2300/  
-- **LinkedIn:** https://www.linkedin.com/in/mohamed-ait-bourice-09499a2a6/ 
-- **Portfolio:**   
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-ait-bourice/ 
+- **Portfolio:** https://mohamed-portfolio-roan.vercel.app/
 
 Always eager to learn, collaborate, and build amazing projects! 🚀
 
